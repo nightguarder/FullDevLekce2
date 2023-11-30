@@ -1,5 +1,19 @@
 # Lekce 2
-## Node.js and Nginx Example
+## Three branches:
+
+### **Bare-minimum express** [repo]()
+- Node.js and Nginx Example
+- bare-minimum, low level aplikace na testovani jak funguje komunikace mezi Client <--> Server (HTTP)
+
+### **Simple MVC architechture** [repo](https://github.com/nightguarder/FullDevLekce2/tree/MVC-example)
+- more advanced GET requests
+
+[Router](/FullDevLekce2/src/img/image1.png)
+
+### **Turborepo** [repo]()
+- https://turbo.build/repo/docs/getting-started/from-example 
+
+### Node.js and Nginx Example
 
 - bare-minimum, low level aplikace na testovani jak funguje komunikace mezi Client <--> Server (HTTP)
 
