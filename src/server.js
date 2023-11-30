@@ -15,7 +15,7 @@ const app = express()
 
 app.set('views', './src/views');
 app.set('view engine', 'ejs');
-
+app.use('/img', express.static('src/img'))
 //Start your router!
 app.use(router)
 
