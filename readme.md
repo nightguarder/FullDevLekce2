@@ -1,4 +1,10 @@
 # Lekce 2
+## Three branches:
+
+**Bare-minimum express** [link]()
+**Simple MVC architechture**[link]()
+**Turborepo**[link]()
+
 ## Node.js and Nginx Example
 
 - bare-minimum, low level aplikace na testovani jak funguje komunikace mezi Client <--> Server (HTTP)
