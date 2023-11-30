@@ -7,7 +7,10 @@
 ![Nginx+Express](/src/img/image3.png)
 
 ### **Simple MVC architechture** [repo](https://github.com/nightguarder/FullDevLekce2/tree/MVC-example)
-- more advanced GET requests
+
+ - Advanced GET requests
+ - Presentacni vrstva(Views) / Business vrstva(Content) / Datová vrstva (API)
+   [Presentacni vrstva](/src/img/image1.png)
 
 
 ### **Turborepo** [repo]()
