@@ -1,7 +1,7 @@
 # Lekce 2
 ## Three branches:
 
-### **Bare-minimum express** [repo]()
+### **Bare-minimum express** [repo](https://github.com/nightguarder/FullDevLekce2/tree/minimum)
 - Node.js and Nginx Example
 - bare-minimum, low level aplikace na testovani jak funguje komunikace mezi Client <--> Server (HTTP)
 
