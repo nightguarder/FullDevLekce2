@@ -8,7 +8,7 @@
 ### **Simple MVC architechture** [repo](https://github.com/nightguarder/FullDevLekce2/tree/MVC-example)
 - more advanced GET requests
 
-[Router](/FullDevLekce2/src/img/image1.png)
+![Router](src/img/image1.png)
 
 ### **Turborepo** [repo]()
 - https://turbo.build/repo/docs/getting-started/from-example 
