@@ -11,6 +11,11 @@
 ## Notes
 
 - MVC vs MVMM
+### MVC (nejjednodusi architektura pro simple appku, usecase: Express,Next)
+![MVC](https://media.geeksforgeeks.org/wp-content/uploads/20230927120218/mvc.png)
+
+### MVMM (pro slozitelsi, vetsi aplikace, usecase: VueJS)
+![MVMM](https://012.vuejs.org/images/mvvm.png)
 - Monorepo is used always for scalable apps
 
 **This is what gets sent when your browser makes any request to a server on web.**
