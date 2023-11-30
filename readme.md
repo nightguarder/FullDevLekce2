@@ -1,13 +1,13 @@
 # Lekce 2
 ## Three branches:
 
-### **Bare-minimum express** [repo](https://github.com/nightguarder/FullDevLekce2/tree/minimum)
+### **Bare-minimum express** [branch](https://github.com/nightguarder/FullDevLekce2/tree/minimum)
 - Node.js and Nginx Example
 - bare-minimum, low level aplikace na testovani jak funguje komunikace mezi Client <--> Server (HTTP)
   
 ![Nginx+Express](/src/img/image3.png)
 
-### **Simple MVC architechture** [repo](https://github.com/nightguarder/FullDevLekce2/tree/MVC-example)
+### **Simple MVC architechture** [branch](https://github.com/nightguarder/FullDevLekce2/tree/MVC-example)
 
  - Advanced GET requests
  - Presentacni vrstva(Views) / Business vrstva(Content) / Datová vrstva (API)
@@ -15,7 +15,7 @@
    ![Presentacni vrstva](/src/img/image1.png)
 
 
-### **Turborepo** [repo]()
+### **Turborepo** [branch]()
 - https://turbo.build/repo/docs/getting-started/from-example 
 
 ### Node.js and Nginx Example
