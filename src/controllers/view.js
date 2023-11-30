@@ -6,8 +6,6 @@ const router = express.Router()
 // Kdokoliv zavola tento get request dostane greeter.ejs odpoved s name
 // http://localhost/greeter/Cyril
 router.get('/greeter/:name', function(req, res) {
-    console.log('Received request:', req.url);
-    console.log('Params:', req.params);
     res.render('greeter', { name: req?.params?.name });
 });
 
