@@ -1,7 +1,7 @@
 # Lekce 2
 ## Node.js and Nginx Example
 
-- Testovani jak webServer komunikuje s Browser pomoci simple Get requestu
+- bare-minimum, low level aplikace na testovani jak funguje komunikace mezi Client <--> Server (HTTP)
 
 ## Prerequisites
 
